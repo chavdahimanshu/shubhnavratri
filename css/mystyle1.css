@@ -1,0 +1,22 @@
+*
+{
+    background-color: #F8DE22;
+}
+p
+{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    background-color: rgb(255, 74, 74);
+    color: #F6F1E9;
+}
+div
+{
+    margin-right: 40px;
+    margin-left: 40px;
+    padding: 10px;
+}
+h1
+{
+    background-color: rgb(117, 155, 155);
+    color: rgb(105, 67, 67);
+}
